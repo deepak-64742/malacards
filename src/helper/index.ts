@@ -1,0 +1,1 @@
+console.log('setting up path alias using ts-node');

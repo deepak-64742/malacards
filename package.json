@@ -27,6 +27,7 @@
   "homepage": "https://github.com/deepak-64742/malacards#readme",
   "devDependencies": {
     "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
     "typescript": "^5.3.3"
   }
 }
